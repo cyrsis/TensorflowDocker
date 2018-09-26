@@ -11,7 +11,6 @@ RUN cd dopamine
 RUN apt install -y libsm6
 RUN apt install -y libxrender1
 
-## install dopmine-rl
 
 
 
