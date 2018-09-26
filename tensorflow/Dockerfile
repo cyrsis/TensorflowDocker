@@ -43,6 +43,7 @@ RUN apt-get install -y xvfb
 RUN apt-get update && apt-get install -y imagemagick
 RUN pip install tqdm
 
+
 RUN apt-get install -y git
 
 RUN pip install scikit-image
